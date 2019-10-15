@@ -1,0 +1,262 @@
+{
+	"pros":[
+		{
+			"images":"./data/images/images1/brand01.webp",
+			"title":"Louis Vuitton"
+		},
+		{
+			"images":"./data/images/images1/brand02.webp",
+			"title":"GUCCI"
+		},
+		{
+			"images":"./data/images/images1/brand03.webp",
+			"title":"PRADA"
+		},
+		{
+			"images":"./data/images/images1/brand04.webp",
+			"title":"FENDI"
+		},
+		{
+			"images":"./data/images/images1/brand05.webp",
+			"title":"BURBERRY"
+		},
+		{
+			"images":"./data/images/images1/brand06.webp",
+			"title":"CARTIER"
+		},
+		{
+			"images":"./data/images/images1/brand07.webp",
+			"title":"BVLGARI"
+		},
+		{
+			"images":"./data/images/images1/brand08.webp",
+			"title":"IWC"
+		},
+		{
+			"images":"./data/images/images1/brand09.webp",
+			"title":"OMEGA"
+		},
+		{
+			"images":"./data/images/images1/brand10.webp",
+			"title":"Tod's"
+		},
+		{
+			"images":"./data/images/images1/brand11.webp",
+			"title":"Shangxia"
+		},
+		{
+			"images":"./data/images/images1/brand12.webp",
+			"title":"Dolce&Gabbana"
+		},
+		{
+			"images":"./data/images/images1/brand13.webp",
+			"title":"CHANEL"
+		},
+		{
+			"images":"./data/images/images1/brand14.webp",
+			"title":"HERMES"
+		},
+		{
+			"images":"./data/images/images1/brand15.webp",
+			"title":"DIOR"
+		},
+		{
+			"images":"./data/images/images1/brand16.webp",
+			"title":"CELINE"
+		},
+		{
+			"images":"./data/images/images1/brand17.webp",
+			"title":"VERSACE"
+		},
+		{
+			"images":"./data/images/images1/brand18.webp",
+			"title":"Salvatore Ferragamo"
+		},
+		{
+			"images":"./data/images/images1/brand19.gif",
+			"title":"Valentino"
+		},
+		{
+			"images":"./data/images/images1/brand20.webp",
+			"title":"BALLY"
+		},
+		{
+			"images":"./data/images/images1/brand21.webp",
+			"title":"GIVENCHY"
+		},
+		{
+			"images":"./data/images/images1/brand22.webp",
+			"title":"Yves saint Laurent"
+		},
+		{
+			"images":"./data/images/images1/brand23.webp",
+			"title":"JIMMY CHOO"
+		},
+		{
+			"images":"./data/images/images1/brand24.webp",
+			"title":"Bottega Veneta"
+		},
+		{
+			"images":"./data/images/images1/brand25.webp",
+			"title":"Emprio Armani"
+		},
+		{
+			"images":"./data/images/images1/brand26.webp",
+			"title":"Armani Exchange"
+		},
+		{
+			"images":"./data/images/images1/brand27.webp",
+			"title":"CHLOE"
+		},
+		{
+			"images":"./data/images/images1/brand28.webp",
+			"title":"Van Cleef&Arpels"
+		},
+		{
+			"images":"./data/images/images1/brand29.webp",
+			"title":"Patek Philippe"
+		},
+		{
+			"images":"./data/images/images1/brand30.webp",
+			"title":"Vacheron Constantin"
+		},
+		{
+			"images":"./data/images/images1/brand31.webp",
+			"title":"ROLEX"
+		},
+		{
+			"images":"./data/images/images1/brand32.webp",
+			"title":"Chopard"
+		},
+		{
+			"images":"./data/images/images1/brand33.webp",
+			"title":"Audemars Piguet"
+		},
+		{
+			"images":"./data/images/images1/brand34.webp",
+			"title":"BLANCPAIN"
+		},
+		{
+			"images":"./data/images/images1/brand35.webp",
+			"title":"MaxMara"
+		},
+		{
+			"images":"./data/images/images1/brand36.webp",
+			"title":"SHIATZY CHEN"
+		},
+		{
+			"images":"./data/images/images1/brand37.webp",
+			"title":"La Mer 海蓝之谜"
+		},
+		{
+			"images":"./data/images/images1/brand38.webp",
+			"title":"ZHUBINGREN 朱炳仁"
+		},
+		{
+			"images":"./data/images/images1/brand39.webp",
+			"title":"SK-II"
+		},
+		{
+			"images":"./data/images/images1/brand40.webp",
+			"title":"Lancome 兰蔻"
+		}
+	],
+	"pros2":[
+		{
+			"images":"./data/images/images1/brandtwo01.webp",
+			"title":"ANTEPRIMA"
+		},
+		{
+			"images":"./data/images/images1/brandtwo02.webp",
+			"title":"FURLA"
+		},
+		{
+			"images":"./data/images/images1/brandtwo03.webp",
+			"title":"Aspinal of London"
+		},
+		{
+			"images":"./data/images/images1/brandtwo04.webp",
+			"title":"Versus"
+		},
+		{
+			"images":"./data/images/images1/brandtwo05.webp",
+			"title":"Tissot"
+		},
+		{
+			"images":"./data/images/images1/brandtwo06.webp",
+			"title":"TRIWA"
+		},
+		{
+			"images":"./data/images/images1/brandtwo07.webp",
+			"title":"Ferragamo Watch"
+		},
+		{
+			"images":"./data/images/images1/brandtwo08.webp",
+			"title":"Versace Watch"
+		},
+		{
+			"images":"./data/images/images1/brandtwo09.webp",
+			"title":"Monica Vinader"
+		},
+		{
+			"images":"./data/images/images1/brandtwo10.webp",
+			"title":"Tiffany&Co."
+		},
+		{
+			"images":"./data/images/images1/brandtwo11.webp",
+			"title":"Swarovski"
+		},
+		{
+			"images":"./data/images/images1/brandtwo12.webp",
+			"title":"APM Monaco"
+		},
+		{
+			"images":"./data/images/images1/brandtwo13.webp",
+			"title":"GOLDEN GOOSE"
+		},
+		{
+			"images":"./data/images/images1/brandtwo14.webp",
+			"title":"DR.MARTENS"
+		},
+		{
+			"images":"./data/images/images1/brandtwo15.webp",
+			"title":"Hogan"
+		},
+		{
+			"images":"./data/images/images1/brandtwo16.webp",
+			"title":"CANADA GOOSE"
+		},
+		{
+			"images":"./data/images/images1/brandtwo17.webp",
+			"title":"DVF"
+		},
+		{
+			"images":"./data/images/images1/brandtwo18.webp",
+			"title":"MOSCHINO"
+		},
+		{
+			"images":"./data/images/images1/brandtwo19.webp",
+			"title":"VERRI"
+		},
+		{
+			"images":"./data/images/images1/brandtwo20.webp",
+			"title":"By Creations"
+		},
+		{
+			"images":"./data/images/images1/brandtwo21.webp",
+			"title":"HUGO BOSS"
+		},
+		{
+			"images":"./data/images/images1/brandtwo22.webp",
+			"title":"Alexander"
+		},
+		{
+			"images":"./data/images/images1/brandtwo23.webp",
+			"title":"KENZO"
+		},
+		{
+			"images":"./data/images/images1/brandtwo24.webp",
+			"title":"MCQ"
+		}
+	]
+}
